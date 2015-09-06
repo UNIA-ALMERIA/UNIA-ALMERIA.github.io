@@ -5,7 +5,7 @@ title: Aviso Legal
 
 #### Política de Cookies
 
-HackLab Almería tiene la obligación por el Real Decreto-ley 13/2012 que modifica la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico, de informar y obtener el consentimiento del ciudadano acerca del uso de las cookies en sus páginas web.
+UNIA Almería tiene la obligación por el Real Decreto-ley 13/2012 que modifica la Ley 34/2002, de 11 de julio, de servicios de la sociedad de la información y de comercio electrónico, de informar y obtener el consentimiento del ciudadano acerca del uso de las cookies en sus páginas web.
 
 Las cookies son archivos que se pueden descargar en su equipo a través de las páginas web. Son herramientas que tienen un papel esencial para la prestación de numerosos servicios de la sociedad de la información. Entre otros, permiten a una página web almacenar y recuperar información sobre los hábitos de navegación de un usuario o de su equipo y, dependiendo de la información obtenida, se pueden utilizar para reconocer al usuario y mejorar el servicio ofrecido.
 
@@ -17,7 +17,7 @@ Por último, existe otra clasificación con cinco tipos de cookies según la fin
 
 ####Aceptación de la Política de Cookies
 
-HackLab Almería, con el objeto de dar cumplimiento a la citada normativa, muestra información sobre su Política de cookies a través de una ventana emergente que bloquea la navegación por su portal con cada inicio de sesión. Ante esta información es posible llevar a cabo las siguientes acciones:
+UNIA Almería, con el objeto de dar cumplimiento a la citada normativa, muestra información sobre su Política de cookies a través de una ventana emergente que bloquea la navegación por su portal con cada inicio de sesión. Ante esta información es posible llevar a cabo las siguientes acciones:
 
 Aceptar cookies. No se volverá a visualizar este aviso al acceder a cualquier página del portal durante la presente sesión.
 
@@ -25,7 +25,7 @@ Modificar su configuración. Podrá obtener más información sobre qué son las
 
 ####Modificar su Configuración de Cookies
 
-Usted puede restringir, bloquear o borrar las cookies de las páginas web de HackLab Almeria, utilizando su navegador. La configuración en cada tipo de navegador de Internet es diferente, la función de ‘Ayuda” del navegador que usted está usando le mostrará cómo hacerlo. Puede obtener más información en los siguientes enlaces:
+Usted puede restringir, bloquear o borrar las cookies de las páginas web de UNIA Almeria, utilizando su navegador. La configuración en cada tipo de navegador de Internet es diferente, la función de ‘Ayuda” del navegador que usted está usando le mostrará cómo hacerlo. Puede obtener más información en los siguientes enlaces:
 
 - [Internet Explorer][1]
 - [FireFox][2]

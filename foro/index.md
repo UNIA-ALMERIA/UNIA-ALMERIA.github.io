@@ -1,4 +1,4 @@
 ---
 layout: refresh
-newurl: http://foro.hacklabalmeria.net
+newurl: http://foro.hacklabalmeria.net/c/unia
 ---
