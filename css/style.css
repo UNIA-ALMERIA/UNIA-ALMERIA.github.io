@@ -66,7 +66,7 @@ button,
 input[type="submit"],
 input[type="reset"],
 input[type="button"] {
-    background: #f05a28;
+    background: #28bef0;
     -moz-border-radius:5px;
     -webkit-border-radius:5px;
     border-radius:5px;
@@ -245,7 +245,7 @@ table {
 }
 
 td, th {
-    background: #f05a28;
+    background: #28bef0;
     padding: 20px;
     color: #ffffff;
     text-align: center;
@@ -335,7 +335,7 @@ footer .container{
     padding:20px 0 10px 0;
 }
 footer{
-	background:#f05a28;
+	background:#28bef0;
 	color:#fff;
 }
 
