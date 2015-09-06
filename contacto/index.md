@@ -11,7 +11,6 @@ Puedes contactar con nosotros por los siguientes medios:
 ---
 
 * Email: asoc.unia@gmail.com
-* [Twitter][2]
+* [Twitter][1]
 
-[1]: asoc.unia@gmail.com
-[2]: https://twitter.com/UNIA_UAL
+[1]: https://twitter.com/UNIA_UAL
