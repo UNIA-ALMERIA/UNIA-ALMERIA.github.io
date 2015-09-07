@@ -2,7 +2,7 @@
 layout: post
 title: pruebaTitle
 subtitle: prueba
-category: actividades
+category: UNIA
 ---
 
 #PRUEBA PARA UN POST EN UNIA
