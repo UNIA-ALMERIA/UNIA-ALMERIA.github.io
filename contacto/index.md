@@ -10,9 +10,29 @@ Puedes contactar con nosotros por los siguientes medios:
 
 ---
 
-* Email: asoc.unia@gmail.com
-* [Twitter][1]
-* [Facebook][2]
+* correo-e: [asoc.unia@gmail.com](mailto:asoc.unia@gmail.com)
+* Twitter: [@UNIA_UAL](http://twitter.com/UNIA_UAL)
+* Facebook: [uniaual]( https://www.facebook.com/uniaual/)
+* Dirección postal:<br/>
+<div style="margin-left: 5em;">
+    Asociación UNIA <br/>
+    Universidad de Almería, Edificio CAE - Despacho 2.023<br/>
+    La Cañada de San Urbano, S/N<br/>
+    Almería 04120
+</div>
 
-[1]: https://twitter.com/UNIA_UAL
-[2]: https://www.facebook.com/uniaual/
+---
+
+Nuestros datos:
+
+<div style="margin-left: 5em;">
+
+Razón social: UNIA: Universitarios Informáticos de Almería<br/>
+CIF: G04194874 <br/>
+Registro de asociaciones de la Junta de Andalucía: 
+<ul>
+<li> Fecha de registro: 03/11/1993 
+<li>  Número de registro: 03363 
+</ul>
+</div>
+
