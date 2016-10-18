@@ -15,7 +15,7 @@ Como parte de la iniciativa, OSL-UNIA, se participa en distintas actividades de 
 
 CUSL es concurso de desarrollo de software, hardware y documentación técnica libre pensado para estudiantes de diferentes niveles, y su edición número XI está en plena ebullición. No olvidéis la web oficial para poder conocer todos los detalles: [XI CUSL 2016-2017](https://www.concursosoftwarelibre.org/1617/).
 
-<strong>Importante:</strong> ¡Ya están las inscripciones abiertas! ¿A qué esperas para apuntarte?: [Inscripciones XI CUSL](https://www.concursosoftwarelibre.org/1617/inscripcion).
+<p class="center"><strong>Importante:</strong> ¡Ya están las inscripciones abiertas! ¿A qué esperas para apuntarte?: [Inscripciones XI CUSL](https://www.concursosoftwarelibre.org/1617/inscripcion).</p>
 
 
 #### PyConES 2016
