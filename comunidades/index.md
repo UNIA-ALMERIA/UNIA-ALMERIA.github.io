@@ -7,14 +7,9 @@ Para complementar la formación, contactar con profesionales, desarrollar proyec
 
 ---
 
-* [Hacklab Almería][1]
-* [Club .NET Almería][2]
-* [EESTEC Observer Almería][3]
-* [EESTEC Observer Almería Facebook][4]
+* [Hacklab Almería](http://hacklabalmeria.net/)
+* [Club .NET Almería](http://www.dotnetalmeria.net/)
+* [EESTEC JLC Almería](https://eestec.net/cities/almeria/)
+* [EESTEC JLC Almería Facebook](https://www.facebook.com/EESTEC-JLC-Almería-766769786701275)
 
 (Y disculpadnos si nos olvidamos de alguna.)
-
-[1]: http://hacklabalmeria.net/
-[2]: http://www.dotnetalmeria.net/
-[3]: https://eestec.net/cities/almeria/
-[4]: https://www.facebook.com/EESTEC-Observer-Almeria-766769786701275/
