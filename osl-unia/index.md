@@ -26,6 +26,17 @@ Estamos preparando un programa de prácticas de empresa curriculares para que po
 
 Por lo pronto hemos habilitado un subforo específico para este asunto: [https://foro.hacklabalmeria.net/c/osl-unia/practicas-curriculares](https://foro.hacklabalmeria.net/c/osl-unia/practicas-curriculares)
 
+---
+
+## Actividades en las que colaboramos
+
+### Tercera edición del certamen de proyectos libres de la UGR
+
+Nuestros compañeros de la [OSL de la Universidad de Granada](http://osl.ugr.es/) organizan la tercera edición del certamen de proyectos libres de la UGR. Está pensado para estudiantes de bachillerato, ciclos formativos y universitarios europeos, cubanos o marroquís.
+
+Si queréis conocer todos los detalles, visitad la [página del certamen](http://osl.ugr.es/2016/09/30/tercera-edicion-del-certamen-de-proyectos-libres-de-la-ugr/), donde encontraréis las bases, los premios y toda la información que necesitéis al respecto. <strong>¡Ya están abiertas las inscripciones!</strong> ¿A qué esperáis?
+
+Además, en el foro hemos creado un tema para conversar sobre el certamen: [https://foro.hacklabalmeria.net/t/tercera-edicion-del-certamen-de-proyectos-libres-de-la-ugr/7703](https://foro.hacklabalmeria.net/t/tercera-edicion-del-certamen-de-proyectos-libres-de-la-ugr/7703).
 
 ---
 
