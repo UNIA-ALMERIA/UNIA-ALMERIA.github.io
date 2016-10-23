@@ -31,8 +31,8 @@ Razón social: UNIA: Universitarios Informáticos de Almería<br/>
 CIF: G04194874 <br/>
 Registro de asociaciones de la Junta de Andalucía: 
 <ul>
-<li> Fecha de registro: 03/11/1993 
-<li>  Número de registro: 03363 
+<li> Fecha de registro: 03/11/1993 </li>
+<li>  Número de registro: 03363 </li>
 </ul>
 </div>
 
