@@ -7,6 +7,7 @@ La Oficina de Software Libre de UNIA (OSL-UNIA) para la Universidad de Almería,
 
 - Nos organizamos en Taiga: [https://tree.taiga.io/project/unia-osl/](https://tree.taiga.io/project/unia-osl/)
 - Y nuestro foro de discusión es: [https://foro.hacklabalmeria.net/c/osl-unia](https://foro.hacklabalmeria.net/c/osl-unia)
+- Y para comunicarte con nosotros directamente escríbenos en el foro en la sección: <https://foro.hacklabalmeria.net/c/osl-unia/osl-unia-contacto>
 
 ---
 
@@ -22,10 +23,14 @@ Hemos habilitado un subforo específico para hablar de estos temas: [https://for
 
 ### Prácticas de empresa
 
-Estamos preparando un programa de prácticas de empresa curriculares para que podáis llevar a cabo estas prácticas en proyectos opensource/software-libre en el marco de OSL-UNIA. Nuestro objetivo es dar cobertura tanto a estudiantes universitarios como de formación profesional. Publicaremos detalles conforme cerremos detalles.
+Ofrecemos un programa de práctica de empresa curriculares para que podáis llevar a cabo estas prácticas en proyectos opensource/software-libre en el marco de OSL-UNIA. Nuestro objetivo es dar cobertura tanto a estudiantes universitarios como de formación profesional. Actualmente nos hemos ofrecido a varios estudios de ingeniería y humanidades. Las prácticas están ofertadas a estudiantes de:
 
-Por lo pronto hemos habilitado un subforo específico para este asunto: [https://foro.hacklabalmeria.net/c/osl-unia/practicas-curriculares](https://foro.hacklabalmeria.net/c/osl-unia/practicas-curriculares)
+- estudios universitarios
+- y ciclos formativos
 
+Hemos habilitado un subforo específico para este programa: [https://foro.hacklabalmeria.net/c/osl-unia/practicas-curriculares](https://foro.hacklabalmeria.net/c/osl-unia/practicas-curriculares)
+
+Si estás interesado en realizar con nosotros tus prácticas de empresa pero te consta que no hemos creado una oferta para tus estudios cuéntanos tu interés y cómo crees que podemos darte cobertura.
 ---
 
 ## Actividades en las que colaboramos
