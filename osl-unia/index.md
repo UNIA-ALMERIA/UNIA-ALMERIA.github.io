@@ -31,6 +31,7 @@ Ofrecemos un programa de práctica de empresa curriculares para que podáis llev
 Hemos habilitado un subforo específico para este programa: [https://foro.hacklabalmeria.net/c/osl-unia/practicas-curriculares](https://foro.hacklabalmeria.net/c/osl-unia/practicas-curriculares)
 
 Si estás interesado en realizar con nosotros tus prácticas de empresa pero te consta que no hemos creado una oferta para tus estudios cuéntanos tu interés y cómo crees que podemos darte cobertura.
+
 ---
 
 ## Actividades en las que colaboramos
