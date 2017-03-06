@@ -3,14 +3,13 @@ layout: page
 title: Contacto
 ---
 
-#### Contacta con nosotros
 
 Si quieres conocernos, puedes venir a la sede de la asociación. Es la primera puerta a la derecha del pasillo de asociaciones, en la segunda planta del CIDU. No siempre hay gente allí, por lo que te recomendamos avisar previamente.
 Puedes contactar con nosotros por los siguientes medios:
 
 ---
 
-* correo-e: [asoc.unia@gmail.com](mailto:asoc.unia@gmail.com)
+* correo-e: [{{ site.email }}](mailto:{{ site.email }})
 * Twitter: [@UNIA_UAL](http://twitter.com/UNIA_UAL)
 * Facebook: [uniaual]( https://www.facebook.com/uniaual/)
 * Dirección postal:<br/>
