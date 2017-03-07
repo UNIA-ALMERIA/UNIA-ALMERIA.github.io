@@ -2,7 +2,7 @@
 layout: post
 title: "Asamblea General"
 subtitle: "Asamblea General de UNIA"
-category: UNIA
+category: asambleas
 ---
 
 ### DESCRIPCIÓN
