@@ -42,7 +42,7 @@
                         <a ng-click="scrollTo(&#39;sponsors&#39;)" class="item">Patrocinadores</a>
                         <a href="http://blog-eestechchallenge.eestec.net/" class="item">Online Seminars</a>
                         <a ng-click="scrollTo(&#39;eestec&#39;)" class="item">Acerca de</a>
-                        <a ui-sref="faq" class="item" href="https://eestechchallenge.eestec.net/#/faq">FAQ</a>
+                        <a ng-click="scrollTo(&#39;condiciones&#39;)" class="item">Condiciones</a>
                         <a ng-click="scrollTo(&#39;contact&#39;)" class="item">Contacto</a>
                         <div class="item" ng-show="!loggedin">
                             <a ui-sref="login" class="ui ec-blue button" href="https://eestechchallenge.eestec.net/#/login">
@@ -91,7 +91,7 @@
                         <a ui-sref="home" class="item" href="https://eestechchallenge.eestec.net/#/">Home</a>
                         <a ng-click="scrollTo(&#39;cities&#39;)" class="item">Cities</a>
                         <a href="http://blog-eestechchallenge.eestec.net/" class="item">Online Seminars</a>
-                        <a ui-sref="faq" class="item" href="https://eestechchallenge.eestec.net/#/faq">FAQ</a>
+                        <a ng-click="scrollTo(&#39;condiciones&#39;)" class="item">Condiciones</a>
                         <a ng-click="scrollTo(&#39;eestec&#39;)" class="item">EESTEC</a>
                         <a ng-click="scrollTo(&#39;contact&#39;)" class="item">Contact</a>
                     </div>
@@ -186,7 +186,92 @@
     </div>
 </section>
 
-<section class="ui content container ng-scope" id="sede-espana">
+<section class="ui content container ng-scope" data-editable="" data-name="condiciones" id="condiciones">
+  <h2 class="ui header aligned center">Condiciones de participación</h2>
+
+
+
+   <h4 class="ui header aligned center">Quién puede participar</h4>
+
+<p>   Los participantes en la competición deben cumplir las condiciones:</p>
+   <ul>
+     <li> tener entre 18 y 26 años;</li>
+     <li> cursar estudios íntimamente relacionados con ingeniería, electrónica o informática;</li>
+     <li> su país de residencia debe ser el mismo que el de la ronda local a la que se registran;</li>
+     <li> los participantes se registrarán en equipos de tres personas.</li>
+   </ul>
+
+
+<h4 class="ui header aligned center">  Qué necesito saber para participar</h4>
+<p>
+  Se necesitan conocimientos de programación y haberse familiarizado con los conceptos de aprendizaje automático (machine learning).
+</p>
+
+<h4 class="ui header aligned center">  Condiciones técnicas</h4>
+<ul>
+  <li> La tecnología utilizada por cada equipo será de libre elección.</li>
+  <li>Todos los proyectos serán liberados en un repositorio público indicado por la organización</li>
+  <li> Deberán estar estar publicados con al menos una de las siguientes licencias libres para software: GPL3, GPL2, LGPL3, LGPL2.1, AGPL3, Apache2, BSD3, BSD2 o MIT y para contenido, de ser necesaria una licencia diferente, CC BY 4.0 o CC BY-SA 4.0.</li>
+  <li> Todos los proyectos deben incluir un archivo README.md que incluya la siguiente información:
+      <ul>
+        <li>  Nombre del proyecto</li>
+        <li>  Componentes del equipo</li>
+        <li>  Descripción del proyecto</li>
+        <li>  Estado del desarrollo actual</li>
+        <li>  Especificaciones técnicas</li>
+        <li>  Licencia bajo cuyos auspicios se publica el proyecto</li>
+        <li>  También se podrá adjuntar cualquier otra información que el equipo considere oportuna: pantallazos, etc.</li>
+      </ul>
+    </li>
+  </ul>
+
+
+<h4 class="ui header aligned center">   Cuotas de registro</h4>
+<p>
+   No hay cuota de registro para participar en el torneo.
+</p>
+
+
+<h4 class="ui header aligned center">
+   Qué ocurre tras la ronda nacional</h4>
+<p>
+   El equipo ganador debe confirmar en 10 días a la organización local si asistirán a la fase final. De no  confirmar la oportunidad se cede al segundo equipo, sin renunciar a cualquier otro premio que se pudiera haber recibido.
+</p>
+
+<h4 class="ui header aligned center">  Gastos de viaje</h4>
+<p>  Durante la fase nacional cualquier gasto es responsabilidad de los participantes. Para la fase final los organizadores intentarán costear los billetes de avión para viajar a Zurich. Los gastos de estancia serán cubiertos por la organización internacional.
+</p>
+<h4 class="ui header aligned center">  Para saber más
+</h4>
+<p>
+  Sobre la fase nacional contacta con el equipo de organización de la sede en Almería: eestech2017@asociacion-unia.es
+</p>
+<p>
+  Para cuestiones de la final en Zurich dirígete al equipo internacional: eestech-challenge@eestec.net.
+</p>
+<p>
+  En caso de duda se tendrán en cuenta el resto de <a href="https://eestechchallenge.eestec.net/#/faq">condiciones oficiales del torneo</a>.
+</p>
+</section>
+
+
+<section class="ui content  inverted ec-blue segment  ng-scope" id="calendario">
+
+  <h2 class="ui header aligned center">Calendario</h2>
+    <div class="ui people container mt-4">
+<p>  La sede Almería contempla las siguientes fechas:</p>
+<ul><li>registro: hasta el 16 de marzo;</li>
+  <li> publicación del reto: 19 de marzo;</li>
+  <li>competición  del 20 al 31 de marzo;</li>
+  <li>ceremonia de presentación de proyectos, evaluación del jurado y concesión del premio: 1 de abril.</li>
+</ul>
+<p>
+  La final en Zurich tendrá lugar del 8 al 12 de mayo de 2017. A sugerencia de la organización la estancia podría extenderse algunos días más, pero tras previo aviso a las partes interesadas.
+</p>
+</div>
+</section>
+
+<section class="ui content  container ng-scope" id="sede-espana">
     <div class="ui center aligned container" data-editable="" data-name="sede-espana">
         <!-- editable people -->
         <h2 class="ui header aligned center">Sede española</h2>
@@ -205,7 +290,7 @@
                       <div class="content">
                         <div class="center">
                           <p>
-                            </p><h4>Ambassador</h4>
+                            </p><h4 class="ui header aligned center">Ambassador</h4>
                             Jorge Fernández Martínez
                           <p></p>
                           <a class="ui inverted small circular icon button dimmerB" href="mailto:yorke005@hotmail.com">
@@ -286,7 +371,7 @@
 <section class="ui content container ng-scope" id="unia">
     <div class="ui">
         <h2 class="ui header aligned center mt-4">Acerca de
-            <strong class="ui red header">UNIA</strong>
+            <strong class="ui blue header">UNIA</strong>
         </h2>
         <h3 class="ui header aligned center">Universitarios Informáticos de Almería</h3>
         <p>UNIA es una asociación de estudiantes que promueve la participación y el aprendizaje.</p>
@@ -344,7 +429,7 @@ para actividades internacionales de UNIA.</p>
                     ¿Necesitas más información?
                 </div>
                 <p>Escríbenos a
-                    <a href="mailto:eestech2017@asociacion-unia.es">eestech2017@asociacion-unia.es </a>
+                    <a href="mailto:eestech2017@asociacion-unia.es">eestech2017@asociacion-unia.es</a>
                 </p>
             </div>
         </div>
@@ -364,52 +449,40 @@ para actividades internacionales de UNIA.</p>
                             <a ui-sref="home" class="item" href="https://eestechchallenge.eestec.net/#/">Home</a>
                             <a ng-click="scrollTo(&#39;cities&#39;)" class="item">Sedes</a>
                             <a ng-click="scrollTo(&#39;sponsors&#39;)" class="item">Patrocinadores</a>
-                            <a href="http://blog-eestechchallenge.eestec.net/" class="item">Online Seminars</a>
-                            <a ui-sref="faq" class="item" href="https://eestechchallenge.eestec.net/#/faq">FAQ</a>
-                            <a ng-click="scrollTo(&#39;eestec&#39;)" class="item">EESTEC</a>
-                            <a ng-click="scrollTo(&#39;contact&#39;)" class="item">Contact</a>
-                            <a href="http://eestechchallenge.eestec.net/#/terms" class="item">Terms and Conditions</a>
+                            <a href="http://blog-eestechchallenge.eestec.net/" class="item">Online Seminars</a
+                            <a ng-click="scrollTo(&#39;condiciones&#39;)" class="item">Condiciones</a>
+                            <a ng-click="scrollTo(&#39;eestec&#39;)" class="item">Acerca de</a>
+                            <a ng-click="scrollTo(&#39;contact&#39;)" class="item">Contacto</a>
+                            <a href="http://eestechchallenge.eestec.net/#/terms" class="item">Condiciones de uso</a>
                         </div>
                     </div>
                     <div class="six wide column">
-                        <h4 class="ui inverted header">Contact Us</h4>
+                        <h4 class="ui inverted header">Contacto</h4>
                         <div class="ui inverted link list">
-                            <a href="mailto:eestech-challenge@eestec.net" class="item">eestech-challenge@eestec.net</a>
+                            <a href="mailto:eestech2017@asociacion-unia.es" class="item">eestech2017@asociacion-unia.es</a>
                         </div>
                     </div>
                     <div class="five wide column">
-                        <h4 class="ui inverted header">Stay in touch</h4>
+                        <h4 class="ui inverted header">Síguenos</h4>
                         <div class="ui inverted link list">
-                            <a href="https://www.facebook.com/eestechchallenge" target="_blank" class="item">
+                            <a href="https://www.facebook.com/EESTech-Challenge-Almer%C3%ADa-376108782724586/" target="_blank" class="item">
                                 <button class="ui circular facebook icon button">
                                     <i class="facebook icon"></i>
                                 </button>
                                 Facebook
                             </a>
-                            <a href="https://twitter.com/eestec" target="_blank" class="item">
+                            <a href="https://twitter.com/EESTech_AL" target="_blank" class="item">
                                 <button class="ui circular twitter icon button">
                                     <i class="twitter icon"></i>
                                 </button>
                                 Twitter
-                            </a>
-                            <a href="https://www.instagram.com/eestechchallenge/" target="_blank" class="item">
-                                <button class="ui circular instagram icon button">
-                                    <i class="instagram icon"></i>
-                                </button>
-                                Instagram
-                            </a>
-                            <a href="https://www.linkedin.com/groups/66771" target="_blank" class="item">
-                                <button class="ui circular linkedin icon button">
-                                    <i class="linkedin icon"></i>
-                                </button>
-                                LinkedIn
                             </a>
                         </div>
                     </div>
                 </div>
                 <div class="ui inverted section divider"></div>
                 <div class="ui horizontal center aligned inverted small container">
-                    <span>© 2016 <a href="http://www.eestec.net/" target="_blank">EESTEC International</a></span>
+                    <span>© 2017 <a href="http://www.eestec.net/" target="_blank">EESTEC International</a>, <a href="http://asociacion-unia.es" target="_blank">Asociación UNIA</a></span>
                 </div>
             </div>
         </div>
