@@ -26,7 +26,7 @@
         <link rel="stylesheet" type="text/css" href="./files/eca.css">
         <link rel="stylesheet" type="text/css" href="./files/app.css">
         <link href="./files/css" rel="stylesheet">
-        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">    
+        <link href="https://fonts.googleapis.com/css?family=Roboto+Condensed" rel="stylesheet">
     </head>
 
     <body ng-app="ecaApp" ng-controller="LandingLayoutController" class="ng-scope" storify-loaded="true">
@@ -38,12 +38,12 @@
                     </a>
                     <div class="right small menu">
                         <a ui-sref="home" class="item" href="https://eestechchallenge.eestec.net/#/">Home</a>
-                        <a ng-click="scrollTo(&#39;cities&#39;)" class="item">Cities</a>
-                        <a ng-click="scrollTo(&#39;sponsors&#39;)" class="item">Sponsors</a>
+                        <a ng-click="scrollTo(&#39;cities&#39;)" class="item">Sedes</a>
+                        <a ng-click="scrollTo(&#39;sponsors&#39;)" class="item">Patrocinadores</a>
                         <a href="http://blog-eestechchallenge.eestec.net/" class="item">Online Seminars</a>
                         <a ng-click="scrollTo(&#39;eestec&#39;)" class="item">EESTEC</a>
                         <a ui-sref="faq" class="item" href="https://eestechchallenge.eestec.net/#/faq">FAQ</a>
-                        <a ng-click="scrollTo(&#39;contact&#39;)" class="item">Contact</a>
+                        <a ng-click="scrollTo(&#39;contact&#39;)" class="item">Contacto</a>
                         <div class="item" ng-show="!loggedin">
                             <a ui-sref="login" class="ui ec-blue button" href="https://eestechchallenge.eestec.net/#/login">
                                 <i class="user icon"></i> Log in
@@ -110,10 +110,19 @@
 </section>
 
 <section class="ui content container ng-scope" data-editable="" data-name="about" id="about">
-    <p><b>EESTech Challenge</b> is a brand new competition organized by EESTEC, that has the aim to create opportunities for European students to gain knowledge in the field of EECS and develop a professional network. The technological topic of the competition will be changed annually.</p>
+<p><b>  EESTech Challenge</b> es una competición tecnológica internacional promovida por <a href="http://eestec.net/">EESTEC</a> y orientada a los jóvenes que serán los próximos profesionales y tecnólogos. Compuesta por dos  rondas, la primera, nacional, es organizada por los comités locales de EESTEC y la  segunda, a celebrar en Zurich, en la que participarán todos los  ganadores de la ronda nacional.</p>
+<p>La ronda nacional en España tiene sede en Almería y está organizada por la asociación universitaria <a href="http://asociacion-unia.es/">UNIA</a>.</p>
+<p>
+  La convocatoria de 2017 pretende ser tan atractiva como contemporánea.
+  Por eso la temática elegida es el <b>aprendizaje automático
+  supervisado</b> («supervised machine learning»), que es una de las
+  tecnologías de más rabiosa actualidad en los últimos cinco años y que
+  apunta a una <b>plétora de innovadoras aplicaciones</b> multidisciplinares en
+  el futuro inmediato. El detalle del reto propuesto se anunciará para la fase de competición.</p>
 
-    <p>In order to create as objective competition as possible, the EESTech Challenge Online Seminars team will organize several online seminars to make sure that everyone has the same knowledge before the Rounds. Since EESTEC emphasizes education and self-improvement, this time also we would like all of our collegues to benefit from this project by expending their knowledge.</p>
-    <br>
+  <p>La competición se acompaña de una serie de sesiones de formación para ayudar a los participantes en la adopción de estas tecnologías.</p>
+  <p><b>+Y el registro ya está abierto!</b></p>
+<br>
       <div class="ui center aligned item" ng-show="!loggedin">
           <a ui-sref="register" class="ui huge fluid ec-blue button" id="register" href="https://eestechchallenge.eestec.net/#/register">
               <i class="add user icon"></i> Register Now!
@@ -647,7 +656,7 @@
 </section>
 <section class="ui content container ng-scope" id="eestec">
     <div class="ui">
-        <h2 class="ui header aligned center mt-4">About
+        <h2 class="ui header aligned center mt-4">Acerca de
             <strong class="ui red header">EESTEC</strong>
         </h2>
         <h3 class="ui header aligned center">Electrical Engineering STudents' European assoCiation</h3>
@@ -660,7 +669,40 @@
         </a>
     </div>
 </section>
+<section class="ui content container ng-scope" id="unia">
+    <div class="ui">
+        <h2 class="ui header aligned center mt-4">Acerca de
+            <strong class="ui red header">UNIA</strong>
+        </h2>
+        <h3 class="ui header aligned center">Universitarios Informáticos de Almería</h3>
+        <p>UNIA es una asociación de estudiantes que promueve la participación y el aprendizaje.</p>
 
+        <p>Fundada en 1993, es la decana de las asociaciones de alumnos de la
+        Universidad de Almería. De profundo espíritu emprendedor siempre ha
+        procurado enriquecer la vida universitaria en diferentes ámbitos. Algunos
+        de sus hitos más representativos han sido la fundación del primer
+        periódico universitario de la UAL, CAMPUS, de la primera revista
+        informática de la UAL y la realización durante varios años de las Jornadas
+        de Informática.</p>
+        <p>Nuestras actividades principales se enmarcan en los grupos de trabajo y
+        comunidades:
+      </p>
+      <ul>
+        <li><a href="https://eestec.net/cities/almeria/">EESTEC JLC Almería</a></li>
+        <li><a href="http://www.dotnetalmeria.net/">Club .Net Almería</a></li>
+        <li>programa en la emisora de radio de la UAL: «Tecnoinquietos»</li>
+        <li><a href="http://asociacion-unia.es/osl-unia">Oficina de software libre OSL-UNIA</a></li>
+      </ul>
+      <h3 class="ui header aligned center">Acerca de EESTEC JLC Almería</h3>
+      <p><a href="https://eestec.net/cities/almeria/">EESTEC JLC Almería</a> es la representación local en Almería de la federación
+internacional EESTEC. Fundada en 2014 opera como el grupo de trabajo
+para actividades internacionales de UNIA.</p>
+
+        <a href="http://asociacion-unia.es/" target="_blank">
+            <img alt="" class="ui centered image" src="/recursos/logo-225x225.png">
+        </a>
+    </div>
+</section>
 <section class="ui content container ng-scope" id="contact">
     <div class="ui text container">
         <h2 class="ui header aligned center">Contact Us</h2>
@@ -742,18 +784,18 @@
     </div>
         </section>
 
-    
+
 </div>
 
         <div class="ui ec-blue inverted vertical footer bottom segment row">
             <div class="ui container">
                 <div class="ui stackable grid">
                     <div class="five wide column">
-                        <h4 class="ui invertedheader">Overview</h4>
+                        <h4 class="ui invertedheader">Acerca de</h4>
                         <div class="ui inverted link list">
                             <a ui-sref="home" class="item" href="https://eestechchallenge.eestec.net/#/">Home</a>
-                            <a ng-click="scrollTo(&#39;cities&#39;)" class="item">Cities</a>
-                            <a ng-click="scrollTo(&#39;sponsors&#39;)" class="item">Sponsors</a>
+                            <a ng-click="scrollTo(&#39;cities&#39;)" class="item">Sedes</a>
+                            <a ng-click="scrollTo(&#39;sponsors&#39;)" class="item">Patrocinadores</a>
                             <a href="http://blog-eestechchallenge.eestec.net/" class="item">Online Seminars</a>
                             <a ui-sref="faq" class="item" href="https://eestechchallenge.eestec.net/#/faq">FAQ</a>
                             <a ng-click="scrollTo(&#39;eestec&#39;)" class="item">EESTEC</a>
@@ -822,7 +864,7 @@
         <script src="./files/api.js"></script>
         <script src="./files/content-tools.min.js"></script>
         <script src="./files/eca.js"></script>
-    
+
 
 
 </body></html>
