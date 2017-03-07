@@ -4,6 +4,9 @@ newurl: /actividades/EESTech2017/
 title: "EESTech Challenge 2017"
 subtitle: "fase nacional con sede en Almería"
 category: actividades
+# esta entrada realmente redirecciona a otra con un diseño adhoc que no tira
+# de las plantillas de jekyll/liquid
+
 ---
 
 
