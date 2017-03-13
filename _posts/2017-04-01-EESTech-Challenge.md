@@ -1,4 +1,5 @@
 ---
+published: false
 layout: refresh
 newurl: /actividades/EESTech2017/
 title: "EESTech Challenge 2017"
