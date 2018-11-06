@@ -15,7 +15,7 @@ Puedes contactar con nosotros por los siguientes medios:
 * Dirección postal:<br/>
 <div style="margin-left: 5em;">
     Asociación UNIA <br/>
-    Universidad de Almería, Edificio CAE - Despacho 2.023<br/>
+    Universidad de Almería, Edificio CAE - Despacho 2.13<br/>
     La Cañada de San Urbano, S/N<br/>
     Almería 04120
 </div>
